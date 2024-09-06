@@ -1,4 +1,4 @@
-import { FAILURE } from '../constants'
+import { RUNNING, FAILURE } from '../constants'
 import Composite from '../core/Composite'
 
 class MemSelector extends Composite {
